@@ -1,0 +1,89 @@
+body {
+  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIKI-IrdXVcIXdqhBbAyeFNZSUxjbEQYGvdS4_eOuo-Ro5U3A_&usqp=CAU);
+  background-attachment: fixed;
+  background-color: rgba(255,255,255,0,8);
+  background-blend-mode: lighten;
+}
+
+li  {
+  list-style: none;
+}
+
+.header {
+  background-color: #f0f8ff;
+  height: 100px;
+}
+.header-logo {
+  font-size: 20px;
+  padding-top: 2px;
+  padding-left: 20px;
+  float:left;
+
+}
+.header-list li {
+  float:left;
+  padding-top: 40px;
+  padding-left: 50px;
+  margin-right: auto;
+}
+.main {
+  padding-left: 20px;
+  padding-top: 0px;
+}
+.top h1 {
+  font-size: 100px;
+  color: #fff;
+}
+
+.main span {
+  color: red;
+}
+.top p {
+  color: #fff;
+  padding-top: 0px;
+  font-size:50px;
+  border-bottom: 2px solid #d3d3d3
+}
+.contents-logo {
+  color: #ffd700;
+  border-bottom: 1px solid #d3d3d3
+}
+.team {
+  color: #fff;
+  font-size: 30px;
+  display: inline-block;
+  height: 200px;
+  width: 250px;
+}
+img {
+  height:100%;
+  width: 100%;
+}
+.contact {
+  color: #fff;
+}
+input {
+  width: 400px;
+}
+textarea {
+  width: 400px;
+  height: 200px;
+}
+.contact-submit {
+  background-color: #dee7ec
+  color: #889eab;
+}
+.footer {
+  background-color: #2f5167;
+  color: #fff;
+  height: 150px;
+  margin-top: 40px;
+}
+.footer-logo {
+  font-size: 50px;
+  padding-left: 20px;
+  float:left;
+}
+.footer-list li {
+  float:right;
+}
